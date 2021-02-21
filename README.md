@@ -1,2 +1,3 @@
-# ansible-quay-collections
-Ansible Collections for Quay
+# Ansible Collection - dmc5179.quay
+
+Documentation for the collection.
